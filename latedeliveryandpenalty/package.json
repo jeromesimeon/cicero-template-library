@@ -4,7 +4,11 @@
     "description": "A sample Late Delivery And Penalty clause.",
     "cicero": {
         "template": "clause",
-        "version": "^0.3.0-0"
+        "version": "^0.3.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/accordproject/cicero-template-library.git"
     },
     "scripts": {
         "test": "mocha"
